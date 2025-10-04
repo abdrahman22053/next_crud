@@ -1,4 +1,3 @@
-// hooks/useUsers.ts
 
 'use client'
 
